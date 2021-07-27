@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hdpfrsGfG3+lIzV7rNm+bRuzqWLTwI7ajuV83YcPfrf0R79XaY+sh2TrafOReThsh5NlW9skX/fEqRgDSpb3g==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetTest\\NsqDome\\src\\NsqModel\\NsqModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

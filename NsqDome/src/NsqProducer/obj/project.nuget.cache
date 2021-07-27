@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IF1myW4OAeUdw9e7ppVb8lb5zR3Hp/0AWtWsWW5Z8dUhiwAJwkO+C9NPqQ34XKZ8v2pFHyV+NvkEyb0KCvW9A==",
+  "success": true,
+  "projectFilePath": "D:\\dotnetTest\\NsqDome\\src\\NsqProducer\\NsqProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nsqsharp.core\\1.0.0\\nsqsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

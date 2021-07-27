@@ -1,0 +1,12 @@
+D:\dotnetTest\NsqDome\src\NsqModel\bin\Debug\net5.0\NsqModel.deps.json
+D:\dotnetTest\NsqDome\src\NsqModel\bin\Debug\net5.0\NsqModel.dll
+D:\dotnetTest\NsqDome\src\NsqModel\bin\Debug\net5.0\ref\NsqModel.dll
+D:\dotnetTest\NsqDome\src\NsqModel\bin\Debug\net5.0\NsqModel.pdb
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.csproj.AssemblyReference.cache
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.AssemblyInfoInputs.cache
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.AssemblyInfo.cs
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.csproj.CoreCompileInputs.cache
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.dll
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\ref\NsqModel.dll
+D:\dotnetTest\NsqDome\src\NsqModel\obj\Debug\net5.0\NsqModel.pdb
